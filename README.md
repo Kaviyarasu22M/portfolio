@@ -24,5 +24,4 @@ A **personal portfolio website** designed to showcase my **skills**, highlight *
 - **JavaScript**
 - **Bootstrap 5**
 
-## 📁 Folder Structure
 
