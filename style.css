@@ -13,6 +13,19 @@ body{
 }
 
 
+@media (max-width:480px){
+  body,html,#root{
+    margin: 10px 5px;
+  }
+}
+
+@media (max-width:760px) {
+  body , html, #root{
+    overflow: auto;
+  }
+}
+
+
 .custom-toggler {
     border: none;
     background: none;
