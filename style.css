@@ -5,24 +5,15 @@
     box-sizing: border-box;
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 body{
     font-family: 'Poppins', sans-serif;
     background-color: #0a192f !important;
     color: white !important;
     scroll-behavior: smooth;
-}
-
-
-@media (max-width:480px){
-  body,html,#root{
-    margin: 10px 5px;
-  }
-}
-
-@media (max-width:760px) {
-  body , html, #root{
-    overflow: auto;
-  }
 }
 
 
@@ -302,7 +293,15 @@ margin-top: 20px;
     margin-top: 70px;
   }
 
-  
+}
+
+@media screen and (max-width:768px) {
+
+  section{
+    justify-content: column;
+    justify-content: center;
+    padding: 2px;
+  }
 }
 
 
