@@ -99,10 +99,8 @@ section{
     width: 100%;
     min-height: 100vh;
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 40px 80px;
 }
 
 .homec>img{
@@ -300,8 +298,8 @@ margin-top: 20px;
 @media screen and (max-width:768px) {
 
   section{
-    justify-content: flex-start;
-    padding: 20px;
+    justify-content: center;
+    padding: 2px;
   }
 }
 
