@@ -295,13 +295,7 @@ margin-top: 20px;
 
 }
 
-@media screen and (max-width:768px) {
 
-  section{
-    justify-content: center;
-    padding: 2px;
-  }
-}
 
 
 @media screen and (min-width:1200px) {
