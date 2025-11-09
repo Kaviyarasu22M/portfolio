@@ -305,6 +305,10 @@ margin-top: 20px;
     justify-content: center;
     padding: 20px;
   }
+   #home {
+    height: 100vh;
+    padding: 20px;
+  }
 }
 
 
